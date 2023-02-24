@@ -1,0 +1,24 @@
+Let's stick to the following loop structure:
+
+
+
+
+//Create variables needed for the loop
+
+while (true) {
+    // read input
+
+    // end the loop -- break
+ 
+    // check for invalid input -- continue
+
+    // handle valid input
+ }
+  
+// functionality to execute after the loop end
+
+
+
+
+
+ The program is cleaner if things to be done after the loop ends, are placed outside of it.
