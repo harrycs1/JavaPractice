@@ -1,0 +1,14 @@
+A class is a blueprint
+
+It specifies what kinds of objects can be instantiated from it
+
+Individual objects are all created based on the same blueprints - they're instances of the same class
+
+The states of individual objects, i.e. their attributes and methods, may all vary however
+
+E.g. a car is an object, it has attributes, such as weight and color, and methods, such as drive and brake
+
+An object's variables specify the internal state of the object
+
+An object's methods specify what the object does
+
